@@ -1,2 +1,2 @@
-# LIFF-TRIHEX
-Ar-LIFF
+# liff
+Public Liff
